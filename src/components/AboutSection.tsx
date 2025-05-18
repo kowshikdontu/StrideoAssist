@@ -46,7 +46,7 @@ export default function AboutSection() {
             inView ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10"
           )}>
             <img 
-              src="src\components\logo.jpg" 
+              src="\logo.jpg" 
               alt="Smart IoT Infrastructure Solution" 
               className="w-full h-auto object-cover"
             />
